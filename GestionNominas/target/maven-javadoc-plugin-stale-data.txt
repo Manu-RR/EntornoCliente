@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/usuario_/Documents/NetBeansProjects/Persona/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/usuario_/Documents/NetBeansProjects/Persona/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestionNominas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GestionNominas 1.0-SNAPSHOT API'
+Laboral
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\src\main\java = 1758190949481
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\allclasses-index.html = 1758608993033
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\allpackages-index.html = 1758608993033
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\element-list = 1758608992924
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\help-doc.html = 1758608993083
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\index-all.html = 1758608993073
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\index.html = 1758608993076
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\jquery-ui.overrides.css = 1758608993116
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\member-search-index.js = 1758608993050
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\module-search-index.js = 1758608993033
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\overview-tree.html = 1758608993017
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\package-search-index.js = 1758608993033
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\script.js = 1758608993092
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\search.js = 1758608993096
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\serialized-form.html = 1758608992955
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\stylesheet.css = 1758608993090
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\tag-search-index.js = 1758608993053
+C:\Users\usuario_\Documents\NetBeansProjects\Persona\target\reports\apidocs\type-search-index.js = 1758608993033
